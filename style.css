@@ -23,6 +23,9 @@ html, body{
     width: 111% !important;
     margin-left: -6% !important;
   }
+  header{
+    height: calc(100% - 156px)!important;
+  }
 }
 
 body{
@@ -101,7 +104,7 @@ hr{
 .menu{
   background-color: #4d4d4d;
   width: 100%;
-  font-size: 23;
+  font-size: 20px;
   font-weight: 300;
   color: #4d4d4d;
   text-align: center;
