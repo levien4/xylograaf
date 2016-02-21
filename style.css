@@ -9,7 +9,7 @@ html, body{
     //background-color: green !important;
   }
   .menu{
-    position: relative;
+    position: relative !important;
   }
 }
 
