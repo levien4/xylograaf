@@ -6,13 +6,16 @@ html, body{
   .menu > .button{
     display: block !important;
     width: 100% !important;
-    //background-color: green !important;
+    background-color: green !important;
   }
   .menu{
     position: relative !important;
   }
   .content{
     max-width: 90% !important;
+  }
+  hr{
+    width: 100% !important;
   }
 }
 
@@ -54,6 +57,12 @@ header{
   height: auto;
   opacity: 1 !important;
   z-index: 4;
+}
+
+/* line */
+hr{
+  width:120%;
+  margin-left:-10%;
 }
 
 .content{
