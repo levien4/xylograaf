@@ -145,17 +145,19 @@ header img{
   position: relative;
   background-size: cover;;
   overflow:hidden;
-  height: 400px;
+  height: 4em;
   margin-left: -50%;
+  font-size: 100px;
   text-align: center;
 }
 
 .window span{
   color: white;
-  font-size: 100px;
   opacity: 0.7;
   margin-top: 50%;
   font-weight: bolder;
   font-style: italic;
   font-variant: inherit;
+  top: 1.2em;
+  position: relative;
 }
