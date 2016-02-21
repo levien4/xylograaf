@@ -11,6 +11,9 @@ html, body{
   .menu{
     position: relative !important;
   }
+  .content{
+    max-width: 90% !important;
+  }
 }
 
 body{
