@@ -1,3 +1,15 @@
+html, body{
+  height: 100%;
+}
+
+@media screen and (max-width: 1000px) {
+  .menu > .button{
+    display: block !important;
+    width: 100% !important;
+    //background-color: green !important;
+  }
+}
+
 body{
   margin: 0;
   padding: 0;
@@ -11,37 +23,24 @@ span{
 }
 
 header{
-  min-width: 100%;
   height: 100%;
-  left: 0;
-  bottom: 0;
-  background-image: url("banners1.jpg");
-  background-size: contain;
+  background-image: url("2.jpg");
+  background-size: cover;
   background-repeat: no-repeat;
   background-position: center 0px;
   background-attachment: fixed;
-  position: absolute;
+  position: relative;
   overflow:hidden;
   z-index: 1;
-}
-
-header img{
-  left: 0px;
-  bottom: 0px;
-  //min-width: 100%;
-  min-height: 100%;
-  opacity: 0;
-  z-index: 2;
-  position: absolute;
 }
 
 .bannerbottom{
   width: 100%;
   opacity: 1;
-  z-index: 3;
+  z-index: 6;
+  position: absolute;
+  bottom: 0px;
   margin-bottom: -10px;
-  //background-color: pink;
-  margin-top: -138%;
 }
 
 .bannerbottom img{
@@ -68,6 +67,8 @@ header img{
   position: fixed;
   z-index: 3;
   width: 35%;
+  bottom: 0px;
+  //background-color: pink;
 }
 
 .rand img{
@@ -78,7 +79,7 @@ header img{
 /* menu and buttons */
 
 .menu{
-  min-width: 1000px;
+  //min-width: 1000px;
   background-color: #4d4d4d;
   width: 100%;
   font-size: 23;
