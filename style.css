@@ -68,6 +68,30 @@ header{
   z-index: 4;
 }
 
+/*read more*/
+.more{
+  height: 40px;
+  background-color: #4d4d4d;
+  position: absolute;
+  top: calc(100% - 40px);
+  width: 100%;
+  z-index: 5;
+}
+
+.more > .read{
+  background-color: white;
+  height: 100%;
+  width: 100px;
+  margin-left: calc(50% - 50px);
+  text-align: center;
+  color: #4d4d4d;
+}
+
+.read:hover{
+  background-color: #e6e6e6;
+  cursor: pointer;
+}
+
 /* line */
 hr{
   width:120%;
