@@ -24,7 +24,10 @@ html, body{
     margin-left: -6% !important;
   }
   header{
-    height: calc(100% - 156px)!important;
+    height: calc(100% - 50%)!important;
+  }
+  .more{
+    visibility: hidden;
   }
 }
 
