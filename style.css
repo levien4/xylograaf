@@ -24,6 +24,7 @@ html, body{
     //left: -5px !important;
     //right: -5px !important;
     margin-left: 0% !important;
+    font-size: 50px !important;
   }
   header{
     height: 50% !important;
@@ -33,6 +34,7 @@ html, body{
   }
   .story{
     padding: 10px !important;
+    font-size: 15px !important;
   }
   span{
     padding: 5px !important;
@@ -197,7 +199,6 @@ hr{
   width: 150px;
   margin-right: 10px;
   vertical-align: top;
-
 }
 
 /*  window */
