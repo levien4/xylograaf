@@ -1,0 +1,13 @@
+* {
+  transform: 0.1s all ease-in-out;
+}
+
+img{
+  -webkit-filter: contrast(1);
+  width: 800px;
+  //transition: 2s all ease-in-out;
+  position: absolute;
+  top: 30%;
+  left: 30%;
+  //transform: translate(-40%, -40%);
+}
