@@ -74,6 +74,10 @@ button{
   margin-bottom: 10px;
 }
 
+button:active{
+  background-color: #1A237E;
+}
+
 button:focus{
   outline: none;
 }
