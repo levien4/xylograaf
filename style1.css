@@ -40,11 +40,11 @@ img{
   outline: none;
 }
 
-.bar:focus:active::-webkit-slider-runnable-track{
+.bar:active::-webkit-slider-runnable-track{
   background: #303F9F;
 }
 
-.bar:focus:active::-webkit-slider-thumb{
+.bar:active::-webkit-slider-thumb{
   box-shadow: 0px 0px 0px 7px rgba(100, 100, 100, 0.5);
 }
 
