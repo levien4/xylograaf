@@ -4,10 +4,15 @@
 
 img{
   -webkit-filter: contrast(1);
-  width: 800px;
+  max-height: 500px;
+  max-width: 100%;
   //transition: 2s all ease-in-out;
-  position: absolute;
-  top: 30%;
-  left: 30%;
+  position: relative;
+  //top: 30%;
+  //left: 30%;
   //transform: translate(-40%, -40%);
+}
+
+.bar{
+  width: 100%;
 }
