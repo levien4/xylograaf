@@ -2,6 +2,10 @@
   transform: 0.1s all ease-in-out;
 }
 
+body{
+  //-webkit-filter: invert(100%);
+}
+
 img{
   -webkit-filter: contrast(1);
   max-height: 500px;
@@ -43,4 +47,8 @@ img{
   width: 15px;
   background: #303F9F;
   margin-top: -7.5px;
+}
+
+.value{
+  display: inline;
 }
