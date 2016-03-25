@@ -8,9 +8,14 @@ $(document).ready(function(){
     var input5 = parseInt($("#saturate").val());
     var input6 = parseInt($("#invert").val());
     var input7 = parseInt($("#blur").val());
-    //console.log(input);
+    var input8 = parseInt($("#recht").val());
+    var scale = Math.abs(input8/25 - 2)/25 +1;
+    //console.log(scale);
     $('img').css({
       '-webkit-filter': 'contrast('+ input/10 +') brightness(' + input1*2 + '%) grayscale(' + input2 +'%) hue-rotate('+ input3*3.6 +'deg) sepia('+ input4 +'%) saturate('+ input5*10 +'%) invert('+ input6 +'%) blur('+ input7/10 +'px)'
+    });
+    $('img').css({
+      'transform': 'rotate('+ (input8/25 - 2) +'deg) scale('+ scale +')'
     });
     document.getElementById('c').innerHTML=
     ""+ input +"";
@@ -28,5 +33,7 @@ $(document).ready(function(){
     ""+ input6 +"";
     document.getElementById('bl').innerHTML=
     ""+ input7 +"";
+    document.getElementById('rz').innerHTML=
+    ""+ input8 +"";
   });
 });
