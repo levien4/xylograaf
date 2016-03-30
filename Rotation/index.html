@@ -1,0 +1,20 @@
+<html>
+<head>
+  <script>
+  window.addEventListener('devicemotion', function(event){
+    var ralpha = event.rotationRate.alpha;
+    var rbeta = event.rotationRate.beta;
+    var rgamma = event.rotationRate.gamma;
+
+    var interval = event.interval;
+
+    if(ralpha != null || rbeta != null || rgamma != null){
+      dataContainer.innerHTML = 'alpha:' + ralpha + '<br>beta:' + rbeta + '<br>rgamma' + rgamma;
+    }, false);
+  });
+  </script>
+</head>
+<body>
+  <div id="dataContainerMotion">Geen data</div>
+</body>
+</html>
