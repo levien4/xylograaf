@@ -1,18 +1,17 @@
 <html>
 <head>
   <script>
-  function init(){
     var dataContainerMotion = document.getElementById('dataContainerMotion');
-    if(window.DeviceMototionEvent){
-      window.addEventListener('devicemotion', function(event){
-        var x = event.beta;
 
-        if(x != null){
-          dataContainerMotion.innerHTML = 'beta:' + x;
-        }, false);
-      });
+    function Orientation(event){
+      var x = event.beta;
+
+      if(x != null){
+        dataContainerMotion.innerHTML = 'beta:' + x;
+      }, false);
     }
-  }
+
+    window.addEventListener('deveiceorientation', Orientation);
   </script>
 </head>
 <body>
