@@ -1,20 +1,18 @@
 <html>
 <head>
   <script>
-    var dataContainerMotion = document.getElementById('dataContainerMotion');
+    var output = document.getElementById('output');
 
     function Orientation(event){
       var x = event.beta;
 
-      if(x != null){
-        dataContainerMotion.innerHTML = 'beta:' + x;
-      }, false);
+        output.innerHTML = 'beta:' + x;
     }
 
     window.addEventListener('deviceorientation', Orientation);
   </script>
 </head>
 <body>
-  <div id="dataContainerMotion">Geen data</div>
+  <div id="output">Geen data</div>
 </body>
 </html>
