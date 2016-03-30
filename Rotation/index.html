@@ -5,9 +5,9 @@
     var dataContainerMotion = document.getElementById('dataContainerMotion');
     if(window.DeviceMototionEvent){
       window.addEventListener('devicemotion', function(event){
-        var ralpha = event.rotationRate.alpha;
-        var rbeta = event.rotationRate.beta;
-        var rgamma = event.rotationRate.gamma;
+        var ralpha = event.alpha;
+        var rbeta = event.beta;
+        var rgamma = event.gamma;
 
         console.log(ralpha);
 
