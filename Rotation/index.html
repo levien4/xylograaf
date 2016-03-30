@@ -5,16 +5,10 @@
     var dataContainerMotion = document.getElementById('dataContainerMotion');
     if(window.DeviceMototionEvent){
       window.addEventListener('devicemotion', function(event){
-        var ralpha = event.alpha;
-        var rbeta = event.beta;
-        var rgamma = event.gamma;
+        var x = event.beta;
 
-        console.log(ralpha);
-
-        var interval = event.interval;
-
-        if(ralpha != null || rbeta != null || rgamma != null){
-          dataContainer.innerHTML = 'alpha:' + ralpha + '<br>beta:' + rbeta + '<br>rgamma' + rgamma;
+        if(x != null){
+          dataContainerMotion.innerHTML = 'beta:' + x;
         }, false);
       });
     }
