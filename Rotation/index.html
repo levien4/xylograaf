@@ -1,18 +1,18 @@
 <html>
 <head>
   <script>
-    var output = document.getElementById('output');
+    var output = document.querySelector('.output');
 
     function Orientation(event){
       var x = event.beta;
 
-        output.innerHTML = 'beta:' + x;
+        output.innerHTML = "beta:" + x;
     }
 
     window.addEventListener('deviceorientation', Orientation);
   </script>
 </head>
 <body>
-  <div id="output"></div>
+  <div class="output"></div>
 </body>
 </html>
