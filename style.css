@@ -2,6 +2,11 @@ html, body{
   height: 100%;
 }
 
+::selection{
+  background: #EF432A;
+  color: white;
+}
+
 @media screen and (max-width: 1000px) {
   .menu > .button{
     display: block !important;
