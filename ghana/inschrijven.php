@@ -21,7 +21,7 @@
             Telefoonnummer<br><input type="text" placeholder="telefoonnummer"><br>
             E-mailadres<br><input type="text" placeholder="e-mailadres"><br>
             Gewenste Datum<br><input type="date"><br>
-            <!--Kies afbeelding voor reclame<br><input type="file" id="file" name="file"><label for="file">Bestand kiezen</label><br>-->
+            Kies afbeelding voor reclame<br><input type="file" id="file" name="file"><label for="file">Bestand kiezen</label><br>
             <input type="submit" name="subint" value="Gereed">
         </div>
     </div>
