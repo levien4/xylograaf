@@ -16,7 +16,7 @@
         <h1>Zwolle</h1>
         <button id="load" onclick="showDiv()">Inschrijven</button>
         <div id="inschrijven">
-          <form method="post" action="input.php">
+          <form method="post" action="http://84.28.103.170:81/chat/input.php">
             Naam Bedrijf<br><input type="text" placeholder="bedrijfsnaam"><br>
             Telefoonnummer<br><input type="text" placeholder="telefoonnummer"><br>
             E-mailadres<br><input type="text" placeholder="e-mailadres"><br>
