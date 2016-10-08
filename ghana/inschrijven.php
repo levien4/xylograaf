@@ -22,7 +22,7 @@
             E-mailadres<br><input type="text" name="email" placeholder="e-mailadres"><br>
             Gewenste Datum<br><input type="date" name="datum"><br>
             Kies afbeelding voor reclame<br><input type="file" id="file" name="file"><label for="file">Bestand kiezen</label><br>
-            <input type="submit" name="subint" value="Gereed">
+            <input type="submit" name="submit" value="Gereed">
           </form>
         </div>
     </div>
