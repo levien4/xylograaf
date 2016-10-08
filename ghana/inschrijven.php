@@ -16,6 +16,7 @@
         <h1>Zwolle</h1>
         <button id="load" onclick="showDiv()">Inschrijven</button>
         <div id="inschrijven">
+<<<<<<< HEAD
           <form method="post" action="http://84.28.103.170:81/chat/input.php">
             Naam Bedrijf<br><input type="text" placeholder="bedrijfsnaam"><br>
             Telefoonnummer<br><input type="text" placeholder="telefoonnummer"><br>
@@ -23,6 +24,15 @@
             Gewenste Datum<br><input type="date"><br>
             <!--Kies afbeelding voor reclame<br><input type="file" id="file" name="file"><label for="file">Bestand kiezen</label><br>-->
             <input type="submit" name="subint" value="Gereed">
+=======
+          <form method="post" action="send.php">
+            Naam Bedrijf<br><input type="text" name="naam" placeholder="bedrijfsnaam"><br>
+            Telefoonnummer<br><input type="text" name="telefoon" placeholder="telefoonnummer"><br>
+            E-mailadres<br><input type="text" name="email" placeholder="e-mailadres"><br>
+            Gewenste Datum<br><input type="date" name="datum"><br>
+            Kies afbeelding voor reclame<br><input type="file" id="file" name="file"><label for="file">Bestand kiezen</label><br>
+            <input type="submit" name="submit" value="Gereed">
+>>>>>>> origin/master
           </form>
         </div>
     </div>
