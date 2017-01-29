@@ -25,5 +25,14 @@ if ( $(window).width() > 1000) {
   //Add your javascript for large screens here
 }
 else {
-  //Add your javascript for small screens here
+  $('#burger').click(function(){
+    console.log(1);
+    $('ul').toggleClass("show");
+  });
 }
+$(document).ready(function(){
+  $('#burger').click(function(){
+    console.log(1);
+    $('ul').toggleClass("show");
+  });
+})

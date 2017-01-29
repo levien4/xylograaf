@@ -2,21 +2,43 @@ html, body{
   height: 100%;
 }
 
+
 ::selection{
   background: #EF432A;
   color: white;
 }
 
 @media screen and (max-width: 1000px) {
-  .menu > .button{
+  /*Menu op telefoon*/
+  #burger{
+    display: block !important;
+    position: fixed;
+  }
+  .menu > li{
     display: block !important;
     width: 100% !important;
-    //background-color: green !important;
     padding: 0px!important;
+    text-align: left !important;
   }
   .menu{
-    position: relative !important;
+    max-width: 100% !important;
+    margin-left: -100% !important;
+    position: absolute !important;
+    //min-height: 100%;
   }
+
+  .show{
+    margin-left: 0px !important;
+  }
+
+  ul li{
+    display: block !important;
+    margin-left: 20px !important;
+  }
+  li ul{
+    display: block !important;
+  }
+  /*Rest*/
   .content{
     max-width: 100% !important;
     padding: 0px !important;
@@ -40,11 +62,10 @@ html, body{
     width: 95% !important;
     padding-left: 10px !important;
     padding-right: 0px !important;
-    font-size: 15px !important;
+    //font-size: 15px !important;
   }
   span{
     padding: 5px !important;
-
   }
 }
 
@@ -54,10 +75,12 @@ body{
   font-family: 'open sans'sans-serif;
   font-size: 20px;
   height: 100%;
+  //padding-bottom: 100px;
 }
 
 span{
   font-variant: small-caps;
+  color: #4d4d4d
 }
 
 header{
@@ -144,18 +167,67 @@ hr{
 }
 
 /* menu and buttons */
+#burger{
+  display:none;
+  color: #4d4d4d;
+  z-index: 100;
+  position: absolute;
+  right: 0px;
+  background-color: white;
+  padding: 3px;
+}
 
 .menu{
-  background-color: #4d4d4d;
+  background-color:white;
   width: 100%;
   font-size: 20px;
-  font-weight: 300;
-  color: #4d4d4d;
+  //font-weight: 300;
   text-align: center;
   position:fixed;
   z-index:99;
+  margin-top: 0px;
+  transition-duration: .3s;
 }
 
+ul{
+  margin: 0;
+  padding: 0;
+}
+ul li{
+  display: inline-block;
+  position: relative;
+  align: center;
+  margin-left: 0px;
+}
+
+li ul{
+  display: none;
+}
+
+ul li a{
+  display: block;
+  text-decoration: none;
+  color: #4d4d4d;
+  background-color: white;
+  padding: 10px 3px 10px 3px;
+  margin: 0 auto;
+  width: 150px;
+  margin-left: 5px;
+}
+
+ul li a:hover{
+  background-color: #e6e6e6;
+}
+
+li:hover ul{
+  display: block;
+  position: absolute;
+}
+
+li:hover li{
+  float: none;
+  font-size: 20px
+}
 .menu > .button{
   width: 150px;
   margin: 0 auto;
@@ -164,12 +236,6 @@ hr{
   padding: 3px;
   background-color: white;
 }
-
-.button:hover{
-  background-color: #e6e6e6;
-  cursor: pointer;
-}
-
 /* story */
 
 .story{
@@ -177,28 +243,8 @@ hr{
   padding-left: 20px;
   padding-right: 20px;
   margin-bottom: 20px;
-  max-height: 150px;
-  overflow: hidden;
   transition: all 1s ease-in-out;
-}
-
-.story:before{
-  content:"";
-  width:100%;
-  height:100%;
-  position:absolute;
-  left:0;
-  top:0;
-  background:linear-gradient(transparent 100px, white);
-}
-
-.story:hover::before{
-  background:linear-gradient(transparent 100px, transparent);
-  z-index: -1;
-}
-
-.story:hover{
-  max-height: 10000px;
+  color: #4d4d4d;
 }
 
 .story img{
@@ -235,4 +281,25 @@ hr{
   font-variant: inherit;
   top: 1.2em;
   position: relative;
+}
+
+footer{
+  height: 100px;
+  background-color: #4d4d4d;
+  box-shadow: 0px 0px 5px #4d4d4d;
+  padding-left: 25%;
+  padding-top: 10px;
+  color: white;
+  z-index: 4;
+  //position: absolute;
+  bottom: 0;
+}
+
+footer > a{
+  text-decoration: none;
+  color: white;
+}
+
+footer > span{
+  color: white;
 }
