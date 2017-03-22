@@ -21,14 +21,16 @@ html, body{
     text-align: left !important;
   }
   .menu{
-    max-width: 100% !important;
-    margin-left: -100% !important;
+    max-width: 300px !important;
+    margin-left: -300px !important;
     position: absolute !important;
-    //min-height: 100%;
+    min-height: 100%;
+    //margin-right: 0px !important;
+    padding: 0px 0px 0px 0px !important;
   }
 
   .show{
-    margin-left: 0px !important;
+    margin-left: 0% !important;
   }
 
   ul li{
@@ -75,6 +77,8 @@ body{
   font-family: 'open sans'sans-serif;
   font-size: 20px;
   height: 100%;
+  //overflow-x: hidden;
+  position: relative;
   //padding-bottom: 100px;
 }
 
@@ -153,7 +157,8 @@ hr{
 
 /* rand */
 .rand{
-  margin-left: 65%;
+  //margin-left: 65%;
+  right: 0px;
   position: fixed;
   z-index: 3;
   width: 35%;
@@ -164,6 +169,8 @@ hr{
 .rand img{
   width: 100%;
   height: auto;
+  //position: static;
+  margin-bottom: 0px;
 }
 
 /* menu and buttons */
