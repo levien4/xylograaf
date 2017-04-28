@@ -80,7 +80,7 @@ ul li{
   position: relative;
   text-align: center;
   margin-left: 0px;
-  cursor: default;
+  cursor: pointer;
   transition-duration: .3s;
   background-color: white;
   color: #4d4d4d;
