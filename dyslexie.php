@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <title>Dyslexie</title>
-  <meta name="viewport" content="width=500px, initial-scale=1.0">
+  <meta name="viewport" content="width=600px, initial-scale=1.0">
   <link rel="stylesheet" type="text/css" href="style.css">
   <link rel="icon" type="image/x-icon" href="favicon.png">
   <?php include_once("analyticstracking.php") ?>
@@ -38,7 +38,7 @@
         <div class="header">
           <a href="index.php"><div id="logo"><img src="logo.jpg"></div></a>
           <img src="1.jpg" width="30%">
-          <img src="4.jpg" width="30%">
+          <img src="4.JPG" width="30%">
           <img src="3.jpg" width="30%">
           <h1>-dyslexie-</h1>
           <div class="text">

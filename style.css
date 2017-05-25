@@ -1,6 +1,6 @@
 @media screen and (max-width: 1000px){
   .content{
-    width: 80% !important;
+    //width: 80% !important;
     min-width: 600px !important;
   }
 
@@ -46,7 +46,7 @@ body{
 
 .content{
   opacity: 1.5;
-  min-width: 850px;
+  //min-width: 850px;
   width: 60%;
   height: auto;
   background-color: white;
