@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <title>Rouwverwerking</title>
-  <meta name="viewport" content="width=500px, initial-scale=1.0">
+  <meta name="viewport" content="width=device-width">
   <link rel="stylesheet" type="text/css" href="style.css">
   <link rel="icon" type="image/x-icon" href="favicon.png">
   <?php include_once("analyticstracking.php") ?>
