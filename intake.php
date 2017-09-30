@@ -42,8 +42,7 @@
           <img src="3.jpg" width="30%">
           <h1>-intake-</h1>
           <div class="text">
-            Op het moment dat u zich zorgen maakt over de ontwikkeling van uw kind is een eerste stap deze zorgen op school te bespreken. School kan deze zorgen met u delen of heeft daar een andere visie op. In het geval school de zorgen met u deelt, kan gezocht worden naar een mogelijkheid om extra zorg in te zetten. Als er op school voldoende expertise en mogelijkheden zijn, is dat een optie. Als school onvoldoende zorg kan bieden, kunt u contact opnemen om een oriënterend gesprek te hebben.
-
+              Op het moment dat u zich zorgen maakt over de ontwikkeling van uw kind is een voor de hand liggende eerste stap deze zorgen op school te bespreken. School kan deze zorgen met u delen of heeft daar een andere visie op. In het geval school de zorgen met u deelt, kan gezocht worden naar een mogelijkheid om extra zorg in te zetten. Als er op school voldoende expertise en mogelijkheden zijn, is dat een optie. Als school onvoldoende zorg kan bieden, kunt u contact opnemen om een oriënterend gesprek te hebben.
             <p>
               Wanneer vanuit de intake de verwachting is dat uw kind baat heeft bij begeleiding door een orthopedagoog, maken we een afspraak voor het starten van een (korter of langer) traject.
           </div>
