@@ -102,7 +102,7 @@ ul li a{
   display: block;
   text-decoration: none;
   color: #4d4d4d;
-  font-weight: normal;
+  font-weight: normal !important;
 }
 
 ul li:hover{
@@ -118,14 +118,14 @@ li:hover li{
   float: none;
   font-size: 20px
 }
-.menu > .button{
-  width: 150px;
-  margin: 0 auto;
-  transition-duration: .3s;
-  display: inline-block;
-  padding: 3px;
-  background-color: white;
-}
+//.menu > .button{
+//  width: 150px;
+//  margin: 0 auto;
+//  transition-duration: .3s;
+//  display: inline-block;
+//  padding: 3px;
+//  background-color: white;
+//}
 
 .vouw{
   height: 285px !important;
@@ -190,19 +190,21 @@ a:active{
 button{
   cursor: pointer;
   font-size: 17px;
+  padding: 10px;
   //color: #e6e6e6;
   align: left;
-  width: 250px;
-  height: 50px;
-  //background-color: #42616f;
+  //width: 250px;
+  //height: 50px;
+  background-color: white;
   border: none;
   border-radius: 2px;
   transition: all 300ms ease-in-out;
-  outline: none;
+  //outline: none;
   display: inline-block;
   position: relative;
   margin-top: 10px;
   -webkit-filter: blur(0);
+  box-shadow: 1px 1px 4px rgba(13, 13, 13, 0.5);
 }
 
 button:hover{
@@ -215,10 +217,10 @@ button:active{
   transform: scale(0.99);
 }
 
-#inschrijven{
-  display: none;
-  animation: form 500ms;
-}
+//#inschrijven{
+//  display: none;
+//  animation: form 500ms;
+//}
 
 form{
   margin-top: 20px;
@@ -247,23 +249,23 @@ input[type="file"]{
   display: none;
 }
 
-input[type="submit"]{
-  cursor: pointer;
-  font-size: 17px;
-  color: #e6e6e6;
-  align: left;
-  width: 250px;
-  height: 50px;
-  background-color: #42616f;
-  border: none;
-  border-radius: 2px;
-  transition: all 300ms ease-in-out;
-  outline: none;
-  display: inline-block;
-  position: relative;
-  margin-top: 10px;
-  -webkit-filter: blur(0);
-}
+//input[type="submit"]{
+//  cursor: pointer;
+//  font-size: 17px;
+//  color: #e6e6e6;
+//  align: left;
+//  width: 250px;
+//  height: 50px;
+//  background-color: #42616f;
+//  border: none;
+//  border-radius: 2px;
+//  transition: all 300ms ease-in-out;
+//  outline: none;
+//  display: inline-block;
+//  position: relative;
+//  margin-top: 10px;
+//  -webkit-filter: blur(0);
+//}
 
 input[type="submit"]:hover{
   box-shadow: 5px 5px 20px rgba(13, 13, 13, 0.5);
