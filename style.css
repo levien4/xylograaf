@@ -174,9 +174,10 @@ h2{
   color: white;
 }
 
-a{
+a:link{
   text-decoration: none;
-  //color: #42619f;
+  color: #42619f;
+  font-weight: bold;
 }
 
 /* button styles*/

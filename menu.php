@@ -14,7 +14,7 @@
       <li><a href="onderzoek.php">Onderzoek</a></li>
       <li><a href="advies.php">Advies</a></li>
       <li><a href="begeleiding.php">Begeleiding</a></li>
-      <li><a href="constructie.php">Behandeling</a></li>
+      <li><a href="behandeling.php">Behandeling</a></li>
       <li><a href="constructie.php">Bekostiging</a></li>
     </ul>
   </li>

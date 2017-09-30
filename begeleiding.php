@@ -2,7 +2,7 @@
 <html>
 <head>
   <meta charset="UTF-8">
-  <title>Advies</title>
+  <title>begeleiding</title>
   <meta name="viewport" content="width=device-width">
   <link rel="stylesheet" type="text/css" href="style.css">
   <link rel="icon" type="image/x-icon" href="favicon.png">
@@ -18,10 +18,9 @@
           <img src="1.jpg" width="30%">
           <img src="2.jpg" width="30%">
           <img src="3.jpg" width="30%">
-          <h1>-advies-</h1>
+          <h1>-begeleiding-</h1>
           <div class="text">
-            Uit het onderzoek kan blijken dat uw kind wel leesproblemen heeft of problemen met de spelling maar dat hij/zij niet voldoet aan de criteria voor ernstige enkelvoudige dyslexie. Er is dan wel sprake van dyslexie. Uw kind komt dan niet in aanmerking voor de vergoede dyslexiezorg, maar een onderzoek en behandeling is binnen de Xylograaf altijd mogelijk. Het onderzoek en de behandeling worden altijd in nauw overleg met school en ouders afgestemd.
-<br>Wanneer er geen sprake is van dyslexie maar uw kind heeft wel ernstige problemen met lezen en/of spellen en/of andere leerproblemen, dan kan de Xylograaf ook begeleiding bieden.
+            Er zijn veel personen betrokken bij een behandeltraject in het kader van de vergoede zorg: (hoofd)behandelaar, ouders, leerkrachten, IB. Samenwerking staat bij mij, in het verlengde van de organisatie - het Dyslexiecollectief - hoog in het vaandel, zowel bij het voortraject, tijdens de behandeling als bij de nazorg. Het contact wordt onderhouden middels een online communicatiesysteem, het Dyscoweb.
           </div>
       </div>
   </div>
