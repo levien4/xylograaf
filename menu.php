@@ -1,14 +1,14 @@
 <ul class="menu">
   <li><a href="index.php">Home</a></li>
-  <li>Zorgaanbod
+  <li onclick="void(0)">Zorgaanbod
     <ul>
       <li><a href="dyslexie.php">Dyslexie</a></li>
       <li><a href="gedragsproblemen.php">Gedragsproblemen</a></li>
-      <li><a href="rouwverwerking.php">Rouwverwerking</a></li>
+      <li><a  onclick="void(0)"href="rouwverwerking.php">Rouwverwerking</a></li>
       <li><a href="constructie.php">Trainingen</a></li>
     </ul>
   </li>
-  <li>Werkwijze
+  <li onclick="void(0)">Werkwijze
     <ul>
       <li><a href="intake.php">Intake</a></li>
       <li><a href="onderzoek.php">Onderzoek</a></li>
