@@ -15,7 +15,7 @@
       <li><a href="advies.php">Advies</a></li>
       <li><a href="begeleiding.php">Begeleiding</a></li>
       <li><a href="behandeling.php">Behandeling</a></li>
-      <li><a href="constructie.php">Bekostiging</a></li>
+      <li><a href="bekostiging.php">Bekostiging</a></li>
     </ul>
   </li>
   <li><a href="contact.php">Contact</a></li>
