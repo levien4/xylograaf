@@ -22,14 +22,15 @@
           <div class="text">
             U kunt zich van maandag tot en met vrijdag telefonisch aanmelden van 09.00 tot 17.00 uur. Wanneer de praktijk niet bereikbaar is kunt u het antwoordapparaat inspreken, u wordt dan zo spoedig mogelijk teruggebeld. Tevens kunt u zich per email aanmelden. U kunt zonder verwijzing een afspraak maken.<p>
             De Xylograaf<br>
-            Drs. M.H. (Marike) van der Woerd - orthopedagoog<br>
-            <h2>Lid van</h2>
-            NVO (Nederlandse Vereniging Orthopedagogen)<br>
-            Geregistreerd bij SKJ<br>
-            Vereniging Vrijgevestigden IjssellandPlus<p>
+            Drs. M.H. (Marike) van der Woerd - orthopedagoog<p>
+
             <img src="site.png" width="20px"><a href="www.xylograaf.nl"> www.xylograaf.nl</a><br></>
             <img src="email.png" width="20px"><a href="mailto:xylograaf@ziggo.nl"> xylograaf@ziggo.nl</a><br>
             <img src="Telefoon.png" width="20px"> 06 11411088<p>
+            <h2>Lid van</h2>
+            NVO: 16106<br>
+            SKJ: 120004153<br>
+            Vereniging Vrijgevestigden IJssellandPlus<p>
             KvK-nummer: 60050977<br>
             AGB-Code Zorgverlener: 94101469<br>
             AGB-Code De Xylograaf: 94062438

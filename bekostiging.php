@@ -50,7 +50,7 @@
               </tr>
               <tr>
                 <th>Overig onderzoek</th>
-                <th>Op aanvraag</th>
+                <th>op aanvraag</th>
               </tr>
               <tr>
                 <th>Behandeling</th>
@@ -58,7 +58,7 @@
               </tr>
               <tr>
                 <th>Training</th>
-                <th>Op aanvraag</th>
+                <th>op aanvraag</th>
               </tr>
               <tr>
                 <th>Begeleiding</th>
@@ -66,11 +66,11 @@
               </tr>
               <tr>
                 <th>Deelname workshop</th>
-                <th>Op aanvraag</th>
+                <th>op aanvraag</th>
               </tr>
               <tr>
                 <th>Themabijeenkomst</th>
-                <th>In overleg/op aanvraag</th>
+                <th>in overleg/op aanvraag</th>
               </tr>
             </table>
           </div>
