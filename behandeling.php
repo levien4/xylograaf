@@ -20,7 +20,17 @@
           <img src="3.jpg" width="30%">
           <h1>-behandeling-</h1>
           <div class="text">
-            De behandeling start met een plan van aanpak (behandeldoelen). Dit wordt besproken met betrokkenen. Een behandeling duurt over het algemeen 3 kwartier tot een uur en vindt een keer per week – bij voorkeur op een vast moment - plaats. Tijdens het traject vinden regelmatig evaluaties plaats om te kijken of de behandeldoelen bijgesteld moeten worden.
+            De behandeling start met een plan van aanpak (behandeldoelen). Dit wordt besproken met betrokkenen.<br>
+            Tijdens een begeleidingssessie werkt de orthopedagoog intensief samen met het kind aan persoonlijke doelen. Hierbij kan gedacht worden aan het ontwikkelen van een positief zelfbeeld, het leren omgaan met frustratie en boosheid, het verminderen van faalangst of het verwerken van een echtscheiding van ouders. <p>
+
+            De talenten van het kind worden hierbij bewust ingezet om de doelen te behalen. Op deze manier blijft het kind gemotiveerd en worden resultaten snel behaald.<br>
+            Het aantal individuele sessies is afhankelijk van de behoefte van het kind. De meeste kinderen hebben baat bij één sessie per week. Afhankelijk van de behoefte van het kind kan de frequentie hoger of lager zijn. <br>
+            Er wordt gestreefd naar een zo kort mogelijk, maar zo lang als nodig traject.<br>
+            Een sessie duurt 60 minuten, waarvan 50 minuten één op één begeleiding wordt geboden aan het kind en 10 minuten besteed wordt aan verslaglegging en terugkoppeling. Een behandeling vindt een keer per week – bij voorkeur op een vast moment - plaats.<p>
+
+            Na afloop van de gestelde begeleidingsperiode zoals afgesproken in het handelingsplan, vindt er met de ouders een evaluatie plaats waarin we bepalen of de gestelde doelen behaald zijn, aangepast kunnen worden en of de behandeling kan worden afgesloten of wordt verlengd.<p>
+
+            <a href="behandelingsovereenkomst.pdf"><button>Behandelovereenkomst</button></a>
           </div>
       </div>
   </div>

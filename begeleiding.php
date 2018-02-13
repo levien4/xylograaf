@@ -20,7 +20,9 @@
           <img src="3.jpg" width="30%">
           <h1>-begeleiding-</h1>
           <div class="text">
-            Er zijn veel personen betrokken bij een behandeltraject in het kader van de vergoede zorg: (hoofd)behandelaar, ouders, leerkrachten, IB. Samenwerking staat bij mij, in het verlengde van de organisatie - het Dyslexiecollectief - hoog in het vaandel, zowel bij het voortraject, tijdens de behandeling als bij de nazorg. Het contact wordt onderhouden middels een online communicatiesysteem, het Dyscoweb.
+            <h2>Individuele aandacht</h2>
+            Binnen een begeleidingstraject wordt één op één met het kind gewerkt. Vooraf onderschrijven opvoeders een plan dat is afgestemd op de begeleidingsbehoefte van het kind. Het kan nuttig zijn om eerst een onderzoek te doen om goed inzicht te krijgen in de hulpvraag. Op deze manier kan de begeleiding/behandeling nog beter afgestemd worden op de specifieke situatie van het kind.<p>
+            Er zijn veel personen betrokken bij een behandeltraject in het kader van de vergoede dyslexiezorg: (hoofd)behandelaar, ouders, leerkrachten, IB. Samenwerking staat bij mij, in het verlengde van de organisatie - het Dyslexiecollectief - hoog in het vaandel, zowel bij het voortraject, tijdens de behandeling als bij de nazorg. Het contact wordt onderhouden middels een online communicatiesysteem, het Dyscoweb.
           </div>
       </div>
   </div>

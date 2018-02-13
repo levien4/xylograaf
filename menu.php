@@ -4,7 +4,7 @@
     <ul>
       <li><a href="dyslexie.php">Dyslexie</a></li>
       <li><a href="gedragsproblemen.php">Gedragsproblemen</a></li>
-      <li><a  onclick="void(0)"href="rouwverwerking.php">Rouwverwerking</a></li>
+      <li><a href="rouwverwerking.php">Rouwverwerking</a></li>
       <li><a href="constructie.php">Trainingen</a></li>
     </ul>
   </li>

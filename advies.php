@@ -20,8 +20,9 @@
           <img src="3.jpg" width="30%">
           <h1>-advies-</h1>
           <div class="text">
-            Uit het onderzoek kan blijken dat uw kind wel leesproblemen heeft of problemen met de spelling maar dat hij/zij niet voldoet aan de criteria voor ernstige enkelvoudige dyslexie. Er is dan wel sprake van dyslexie. Uw kind komt dan niet in aanmerking voor de vergoede dyslexiezorg, maar een onderzoek en behandeling is binnen de Xylograaf altijd mogelijk. Het onderzoek en de behandeling worden altijd in nauw overleg met school en ouders afgestemd.
-<br>Wanneer er geen sprake is van dyslexie maar uw kind heeft wel ernstige problemen met lezen en/of spellen en/of andere leerproblemen, dan kan de Xylograaf ook begeleiding bieden.
+            Als tijdens een intake blijkt dat uw kind voordeel kan hebben bij ondersteuning wordt een advies gegeven voor een ondersteuningstraject.<p>
+            Uit het onderzoek naar dyslexie kan blijken dat uw kind wel leesproblemen heeft of problemen met de spelling maar dat hij/zij niet voldoet aan de criteria voor ernstige enkelvoudige dyslexie. Er is dan wel sprake van dyslexie. Uw kind komt dan niet in aanmerking voor de vergoede dyslexiezorg, maar een onderzoek en behandeling is binnen de Xylograaf altijd mogelijk. Het onderzoek en de behandeling worden altijd in nauw overleg met school en ouders afgestemd.
+            <br>Wanneer er geen sprake is van dyslexie maar uw kind heeft wel ernstige problemen met lezen en/of spellen en/of andere leerproblemen, dan kan de Xylograaf ook begeleiding bieden.
           </div>
       </div>
   </div>

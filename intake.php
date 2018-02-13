@@ -22,7 +22,9 @@
           <div class="text">
               Op het moment dat u zich zorgen maakt over de ontwikkeling van uw kind is een voor de hand liggende eerste stap deze zorgen op school te bespreken. School kan deze zorgen met u delen of heeft daar een andere visie op. In het geval school de zorgen met u deelt, kan gezocht worden naar een mogelijkheid om extra zorg in te zetten. Als er op school voldoende expertise en mogelijkheden zijn, is dat een optie. Als school onvoldoende zorg kan bieden, kunt u contact opnemen om een oriënterend gesprek te hebben.
             <p>
-              Wanneer vanuit de intake de verwachting is dat uw kind baat heeft bij begeleiding door een orthopedagoog, maken we een afspraak voor het starten van een (korter of langer) traject.
+              Tijdens de vrijblijvende intake met de ouder(s) wordt besproken waar het kind tegenaan loopt en waar de leerdoelen van het kind liggen.
+              Met deze input stelt de orthopedagoog een handelingsplan op met de persoonlijke doelen waar de begeleiding zich de komende periode op gaat richten. Na akkoord van de ouders op het plan
+              wordt een afspraak gemaakt voor het starten van een (korter of langer) begeleidingstraject.
           </div>
       </div>
   </div>

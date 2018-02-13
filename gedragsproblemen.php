@@ -20,8 +20,9 @@
           <img src="3.jpg" width="30%">
           <h1>-gedragsproblemen-</h1>
           <div class="text">
-            Kids' Skills is een methode waarmee kinderen op een positieve, constructieve manier problemen overwinnen door nieuwe vaardigheden te leren. De methode leent zich voor het oplossen van de doodgewone, alledaagse problemen die voorkomen bij het opvoeden van kinderen, maar ook voor de ernstigere problematiek.<p>
-Orthopedagogische praktijk De Xylograaf biedt vanuit de methode Kids’ Skills ondersteuning aan kinderen en ouders die vragen hebben op het gebied van opgroeien en opvoeden.
+            Wordt je kind snel boos? Heeft het soms het idee dat niemand hem begrijpt? Is je kind bang om fouten te maken? Of misschien wil je wel dat je kind wat sterker in z’n schoenen staat. Dan is wellicht individuele begeleiding een goede optie.<p>
+            Orthopedagogische praktijk de Xylograaf biedt ondersteuning aan kinderen en ouders die vragen hebben op het gebied van opgroeien en opvoeden.<p>
+            De Xylograaf gebruikt een methode waarmee kinderen op een positieve, constructieve manier problemen overwinnen door nieuwe vaardigheden te leren. De methode leent zich voor het oplossen van de doodgewone, alledaagse problemen die voorkomen bij het opvoeden van kinderen, maar ook voor de ernstigere problematiek.
           </div>
       </div>
   </div>
