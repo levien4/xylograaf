@@ -34,5 +34,10 @@
           </div>
       </div>
   </div>
+  <div class="footer">
+    <div id="subtext">
+      2018 Xylograaf | <a href="privacyverklaring.pdf">privacyverklaring</a>
+    </div>
+  </div>
 </body>
 </html>
