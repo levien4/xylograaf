@@ -14,7 +14,7 @@
     <div class="content">
       <?php include("menu.php") ?>
         <div class="header">
-          <a href="index.php"><div id="logo"><img src="logo.jpg"></div></a>
+          <a href="index.html"><div id="logo"><img src="logo.jpg"></div></a>
           <img src="1.jpg" width="30%">
           <img src="6.jpg" width="30%">
           <img src="3.jpg" width="30%">
