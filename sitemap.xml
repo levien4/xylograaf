@@ -1,76 +1,85 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
 <url>
-  <loc>http://xylograaf.nl/</loc>
-  <lastmod>2018-02-18T19:35:00+00:00</lastmod>
+  <loc>https://www.xylograaf.nl/</loc>
+  <lastmod>2019-01-09T14:20:28+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>http://xylograaf.nl/index.php</loc>
-  <lastmod>2018-02-18T19:35:00+00:00</lastmod>
+  <loc>https://www.xylograaf.nl/index.html</loc>
+  <lastmod>2019-01-09T14:20:28+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://xylograaf.nl/dyslexie.php</loc>
-  <lastmod>2018-02-18T19:35:00+00:00</lastmod>
+  <loc>https://www.xylograaf.nl/dyslexie.html</loc>
+  <lastmod>2019-01-09T14:20:28+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://xylograaf.nl/gedragsproblemen.php</loc>
-  <lastmod>2018-02-18T19:35:00+00:00</lastmod>
+  <loc>https://www.xylograaf.nl/gedragsproblemen.html</loc>
+  <lastmod>2019-01-09T14:20:28+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://xylograaf.nl/rouwverwerking.php</loc>
-  <lastmod>2018-02-18T19:35:00+00:00</lastmod>
+  <loc>https://www.xylograaf.nl/rouwverwerking.html</loc>
+  <lastmod>2019-01-09T14:20:28+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://xylograaf.nl/constructie.php</loc>
-  <lastmod>2018-02-18T19:35:00+00:00</lastmod>
+  <loc>https://www.xylograaf.nl/constructie.html</loc>
+  <lastmod>2019-01-09T14:20:28+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://xylograaf.nl/intake.php</loc>
-  <lastmod>2018-02-18T19:35:00+00:00</lastmod>
+  <loc>https://www.xylograaf.nl/intake.html</loc>
+  <lastmod>2019-01-09T14:20:28+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://xylograaf.nl/onderzoek.php</loc>
-  <lastmod>2018-02-18T19:35:00+00:00</lastmod>
+  <loc>https://www.xylograaf.nl/onderzoek.html</loc>
+  <lastmod>2019-01-09T14:20:28+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://xylograaf.nl/advies.php</loc>
-  <lastmod>2018-02-18T19:35:00+00:00</lastmod>
+  <loc>https://www.xylograaf.nl/advies.html</loc>
+  <lastmod>2019-01-09T14:20:28+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://xylograaf.nl/begeleiding.php</loc>
-  <lastmod>2018-02-18T19:35:00+00:00</lastmod>
+  <loc>https://www.xylograaf.nl/begeleiding.html</loc>
+  <lastmod>2019-01-09T14:20:28+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://xylograaf.nl/behandeling.php</loc>
-  <lastmod>2018-02-18T19:35:00+00:00</lastmod>
+  <loc>https://www.xylograaf.nl/behandeling.html</loc>
+  <lastmod>2019-01-09T14:20:28+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://xylograaf.nl/bekostiging.php</loc>
-  <lastmod>2018-02-18T19:35:00+00:00</lastmod>
+  <loc>https://www.xylograaf.nl/bekostiging.html</loc>
+  <lastmod>2019-01-09T14:20:28+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://xylograaf.nl/contact.php</loc>
-  <lastmod>2018-02-18T19:35:00+00:00</lastmod>
+  <loc>https://www.xylograaf.nl/contact.html</loc>
+  <lastmod>2019-01-09T14:20:28+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://xylograaf.nl/behandelingsovereenkomst.pdf</loc>
-  <lastmod>2017-09-30T13:37:06+00:00</lastmod>
+  <loc>https://www.xylograaf.nl/privacyverklaring.pdf</loc>
+  <lastmod>2019-01-09T14:20:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.xylograaf.nl/behandelingsovereenkomst.pdf</loc>
+  <lastmod>2019-01-09T14:20:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 
