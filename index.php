@@ -2,6 +2,7 @@
 <html>
 <head>
   <meta charset="UTF-8">
+  <meta name="msvalidate.01" content="23D4761D39F725A794A966A71B847050" />
   <title>de Xylograaf</title>
   <meta name="viewport" content="width=device-width">
   <link rel="stylesheet" type="text/css" href="style.css">
