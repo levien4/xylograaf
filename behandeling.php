@@ -26,9 +26,9 @@
             De talenten van het kind worden hierbij bewust ingezet om de doelen te behalen. Op deze manier blijft het kind gemotiveerd en worden resultaten snel behaald.<br>
             Het aantal individuele sessies is afhankelijk van de behoefte van het kind. De meeste kinderen hebben baat bij één sessie per week. Afhankelijk van de behoefte van het kind kan de frequentie hoger of lager zijn. <br>
             Er wordt gestreefd naar een zo kort mogelijk, maar zo lang als nodig traject.<br>
-            Een sessie duurt 60 minuten, waarvan 50 minuten één op één begeleiding wordt geboden aan het kind en 10 minuten besteed wordt aan verslaglegging en terugkoppeling. Een behandeling vindt een keer per week – bij voorkeur op een vast moment - plaats.<p>
+            Een sessie duurt 60 minuten, waarvan 45 minuten één op één begeleiding wordt geboden aan het kind en 15 minuten besteed wordt aan verslaglegging en terugkoppeling. Een behandeling vindt een keer per week – bij voorkeur op een vast moment - plaats.<p>
 
-            Na afloop van de gestelde begeleidingsperiode zoals afgesproken in het handelingsplan, vindt er met de ouders een evaluatie plaats waarin we bepalen of de gestelde doelen behaald zijn, aangepast kunnen worden en of de behandeling kan worden afgesloten of wordt verlengd.<p>
+            Na afloop van de gestelde begeleidingsperiode zoals afgesproken in het handelingsplan, vindt er met de ouders een evaluatie plaats waarin we bepalen of de gestelde doelen behaald zijn, aangepast moeten worden en of de behandeling kan worden afgesloten of wordt verlengd.<p>
 
             <a href="behandelingsovereenkomst.pdf"><button>Behandelovereenkomst</button></a>
           </div>
