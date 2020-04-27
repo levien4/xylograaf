@@ -20,7 +20,7 @@
           <img src="3.jpg" width="30%">
           <h1>-contact-</h1>
           <div class="text">
-            U kunt zich van maandag tot en met vrijdag telefonisch aanmelden van 09.00 tot 17.00 uur. Wanneer de praktijk niet bereikbaar is kunt u het antwoordapparaat inspreken, u wordt dan zo spoedig mogelijk teruggebeld. Tevens kunt u zich per email aanmelden. U kunt zonder verwijzing een afspraak maken.<p>
+            Na de studie Orthopedagogiek ben ik gestart met onderzoek en behandeling van kinderen met dyslexie. Ik ben opgeleid tot dyslexieprofessional. Voor het inzetten van de methode Kids skills en het onderkennen van gecompliceerde rouwverwerking, heb ik gecertificeerde cursussen gevolgd. Ik ben in opleiding tot cognitief gedragstherapeut.<p>U kunt zich van maandag tot en met vrijdag telefonisch aanmelden van 09.00 tot 17.00 uur. Wanneer de praktijk niet bereikbaar is kunt u het antwoordapparaat inspreken, u wordt dan zo spoedig mogelijk teruggebeld. Tevens kunt u zich per email aanmelden. U kunt zonder verwijzing een afspraak maken.<p>
             De Xylograaf<br>
             Drs. M.H. (Marike) van der Woerd - orthopedagoog<p>
 
@@ -30,7 +30,8 @@
             <h2>Lid van</h2>
             NVO: 16106<br>
             SKJ: 120004153<br>
-            Vereniging Vrijgevestigden IJssellandPlus<p>
+
+            VGCt i.o.<br>Vereniging Vrijgevestigden IJssellandPlus<p>
             KvK-nummer: 60050977<br>
             AGB-Code Zorgverlener: 94101469<br>
             AGB-Code De Xylograaf: 94062438
