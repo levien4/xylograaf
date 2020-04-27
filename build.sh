@@ -10,3 +10,4 @@ php gedragsproblemen.php > gedragsproblemen.html
 php intake.php > intake.html
 php onderzoek.php > onderzoek.html
 php rouwverwerking.php > rouwverwerking.html
+php verhalen.php > verhalen.html
