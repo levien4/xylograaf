@@ -18,7 +18,7 @@
           <img src="1.jpg" width="30%">
           <img src="5.jpg" width="13.3%">
           <img src="3.jpg" width="30%">
-          <h1>-rouwverwerking-</h1>
+          <h1>-gedragstherapie en rouwverwerking-</h1>
           <div class="text">
             In Nederland verliezen jaarlijks duizenden kinderen een eerstegraads familielid (een ouder, broer of zus). Uit onderzoek is gebleken dat deze kinderen een verhoogde kans hebben op het ontwikkelen van problemen. Zo heeft 20 procent twee jaar na een verlies dusdanig ernstige psychosociale problemen dat professionele hulp noodzakelijk is. Vroegtijdige onderkenning en behandeling van kinderen die mogelijk vastlopen in de verwerking van verlies is daarom wenselijk.<p>
             Je kunt met zorgen over rouwverwerking terecht bij orthopedagogische praktijk De Xylograaf. Ik ga samen met het kind kijken hoe het de rouw verwerkt en of het daar hulp bij nodig heeft.
