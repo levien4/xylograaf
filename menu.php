@@ -4,7 +4,7 @@
     <ul>
       <li><a href="dyslexie.html">Dyslexie</a></li>
       <li><a href="gedragsproblemen.html">Gedragsproblemen</a></li>
-      <li><a href="rouwverwerking.html">Rouwverwerking</a></li>
+      <li><a href="rouwverwerking.html">Sociaal-emotionele ontwikkeling</a></li>
       <li><a href="constructie.html">Trainingen</a></li>
     </ul>
   </li>
