@@ -1,7 +1,8 @@
 <ul class="menu">
-  <li><a href="index.html"onclick="void(0)">Home<ul>
-    <li><a href="verhalen.html">Verhalen</a></li>
-  </ul></a></li>
+  <li><a href="index.html"onclick="void(0)">Home
+    <ul>
+      <li><a href="verhalen.html">Verhalen</a></li>
+    </ul></a></li>
   <li onclick="void(0)">Zorgaanbod
     <ul>
       <li><a href="dyslexie.html">Dyslexie</a></li>
