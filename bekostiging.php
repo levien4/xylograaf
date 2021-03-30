@@ -28,8 +28,13 @@
 
             <table>
               <tr>
-                <th>Kennismaking/intake</th>
+                <th>Kennismaking (max. 30 minuten)</th>
                 <th>kosteloos</th>
+              </tr>
+              <tr>
+                <th>Intake (60-90 minuten, incl. intakeverslag en behandelplan)</th>
+                <th>€120</th>
+
               </tr>
               <tr>
                 <th>Diagnostiek</th>
