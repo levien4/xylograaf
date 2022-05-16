@@ -22,9 +22,12 @@
           <div class="text">
             <h2>Zorgverzekering</h2>
             Vanaf 1 januari 2015 is de vergoede zorg van zorgverzekeraar overgeheveld naar de gemeenten. Een voorwaarde voor vergoede hulp in deze regio is een toewijzing of indicatie door een goedgekeurde verwijzer, zoals de huisarts, jeugdarts of medisch specialist of de lokale Toegang.<p> Als praktijk heb ik geen contract met een gemeente.<p>
-
-            <h2>Tarieven particuliere bekostiging</h2>
-            Wanneer vergoeding van hulp niet mogelijk is, zullen de kosten geheel voor uw eigen rekening zijn. In dat geval wordt een factuur verstuurd. Wanneer kosten een probleem voor u zijn, dan denken we graag met u mee over mogelijkheden.<p>
+              Het voordeel hiervan is dat ik flexibel ben in de behandelingen en er geen tijd verloren gaat aan extra administratieve handelingen. De kosten van de behandeling worden dus niet vergoed.
+              <p>
+              Momenteel heb ik voldoende ruimte in mijn praktijk in Zwolle (noord) om een intakegesprek te plannen en behandeling te starten. Je kunt ons alvast bellen of mailen om een afspraak in te plannen.
+              <h2>Tarieven particuliere bekostiging</h2>
+              Ik ben een particuliere aanbieder. Je hebt daarom geen verwijsbrief nodig van de huisarts of gemeente om hulp te krijgen van mij. Je kunt je aanmelden door telefonisch contact op te nemen of via e-mail.
+            <p>Wanneer kosten een probleem voor je zijn, dan denk ik graag met je mee over mogelijkheden.<p>
 
             <table>
               <tr>
