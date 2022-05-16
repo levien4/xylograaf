@@ -28,16 +28,13 @@
 <p>Marike van der Woerd, orthopedagoog en eigenaar van de Xylograaf.<p>
 
             <img src="site.png" width="20px"><a href="www.xylograaf.nl"> www.xylograaf.nl</a><br></>
-            <img src="email.png" width="20px"><a href="mailto:xylograaf@ziggo.nl"> xylograaf@ziggo.nl</a><br>
+            <img src="email.png" width="20px"><a href="mailto:marikevanderwoerd@gmail.com">marikevanderwoerd@gmail.com</a><br>
             <img src="Telefoon.png" width="20px"> 06 11411088<p>
             <h2>Lid van</h2>
             NVO: 16106<br>
             SKJ: 120004153<br>
 
             VGCt i.o.<p>
-            KvK-nummer: 60050977<br>
-            AGB-Code Zorgverlener: 94101469<br>
-            AGB-Code de Xylograaf: 94062438
           </div>
       </div>
   </div>
