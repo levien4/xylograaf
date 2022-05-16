@@ -44,12 +44,6 @@
                 <th></th>
               </tr>
               <tr>
-                <th>&nbsp; - intelligentieonderzoek</th>
-              </tr>
-              <tr>
-                <th>&nbsp; - dyslexieonderzoek</th>
-              </tr>
-              <tr>
                 <th>Kosten onderzoek</th>
                 <th>op aanvraag</th>
               </tr>
@@ -59,7 +53,7 @@
               </tr>
               <tr>
                 <th>Begeleiding</th>
-                <th>€80 p/u</th>
+                <th>€95 p/u</th>
               </tr>
               <tr>
                 <th>Deelname workshop</th>
