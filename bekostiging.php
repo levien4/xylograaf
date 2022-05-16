@@ -36,7 +36,7 @@
               </tr>
               <tr>
                 <th>Intake (60-90 minuten, incl. intakeverslag en behandelplan)</th>
-                <th>€120</th>
+                <th>€180</th>
 
               </tr>
               <tr>
@@ -45,14 +45,12 @@
               </tr>
               <tr>
                 <th>&nbsp; - intelligentieonderzoek</th>
-                <th>€500</th>
               </tr>
               <tr>
                 <th>&nbsp; - dyslexieonderzoek</th>
-                <th>€500</th>
               </tr>
               <tr>
-                <th>Overig onderzoek</th>
+                <th>Kosten onderzoek</th>
                 <th>op aanvraag</th>
               </tr>
               <tr>
